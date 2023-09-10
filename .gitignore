@@ -1,0 +1,14 @@
+node_modules
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.env
+
+
+#testing
+/coverage
+
+# next.js
+/.next/
+/out/
